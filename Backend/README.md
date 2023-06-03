@@ -1,6 +1,6 @@
 # Fastify_VueProject/Backend
 
-This project uses Fastify - Prisma - Typescript - PostgreSQL for backend
+This project uses Fastify - Prisma - Typescript for backend
 
 ## Recommended IDE Setup
 
