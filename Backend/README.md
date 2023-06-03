@@ -4,7 +4,7 @@ This project uses Fastify - Prisma - Typescript for backend
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Fastify]((https://www.fastify.io/)) + [TypeScript Fastify Plugin (Volar)]((https://www.fastify.io/docs/latest/Reference/TypeScript/))+ [Prisma](((https://www.prisma.io/))).
+[VSCode](https://code.visualstudio.com/) + [Fastify](https://www.fastify.io/) + [TypeScript Fastify Plugin (Volar)](https://www.fastify.io/docs/latest/Reference/TypeScript/)+ [Prisma](https://www.prisma.io/).
 
 
 ## Project Setup
