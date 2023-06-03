@@ -1,10 +1,10 @@
 # Fastify_VueProject/Backend
 
-This project uses Fastify PostgreSQL for backend
+This project uses Fastify - Prisma - Typescript - PostgreSQL for backend
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+[VSCode](https://code.visualstudio.com/) + [Fastify]((https://www.fastify.io/)) + [TypeScript Fastify Plugin (Volar)]((https://www.fastify.io/docs/latest/Reference/TypeScript/))+ [Prisma](((https://www.prisma.io/))).
 
 
 ## Project Setup
